@@ -1,0 +1,2 @@
+Configuração do Pytesseract
+Para usar o Pytesseract, você precisa instalar o Tesseract OCR no seu sistema. Aqui estão as instruções:
