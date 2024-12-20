@@ -63,7 +63,7 @@ sudo apt-get install tesseract-ocr
 1. Clone o repositório:
 
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/alebona/consulta-nfce-sefaz-rn.git)
+   git clone https://github.com/alebona/consulta-nfce-sefaz-rn.git
    cd consulta-nfce-sefaz-rn
     ```
 2. Execute o script principal:
